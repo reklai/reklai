@@ -2,7 +2,7 @@
 
 **Backend Developer | Systems Tinkerer | USAF**
 
-I'm a software developer currently serving in the U.S. Air Force. I love backend engineering, optimizing systems, and just simply: hands to the keyboard and build cool things through code.
+I'm a software developer currently serving in the U.S. Air Force. I love backend engineering, optimizing for performant systems and automation. Simply put: coding is consuming my life right now
 
 ---
 
@@ -47,5 +47,5 @@ I'm a software developer currently serving in the U.S. Air Force. I love backend
 ---
 
 <p align="center">
-  <i>"Make it work. Make it right. Make it fast."</i>
+  <i>"Stay Consistent, stay consistent, I tell myself. Result will come when opportunities meet consistency"</i>
 </p>
