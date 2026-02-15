@@ -11,7 +11,7 @@ I love backend engineering, optimizing for performant systems and automation. Si
 - Backend development is my jam
 - Devops and Cloud infrastructure sparks joy for me
 - Systems engineering fascinates me — optimization is the fun part
-- Daily driving **Arch Linux** with **Neovim** and **Ghostty**
+- Daily driving **Fedora Plasma KDE Linux** with **Neovim** and **Ghostty**
 
 ---
 
