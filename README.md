@@ -4,7 +4,7 @@
 
 ## About Me
 
-- Systems engineering fascinates me: optimization is the fun part
+- I want to build, learn, and design human-first experience: goal is to increase my code quality through failures.
 - Daily driving **Arch Linux** with **Neovim** and **Ghostty**
 
 ---
