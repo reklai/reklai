@@ -4,7 +4,6 @@
 
 ## About Me
 
-- I want to build, learn, and design human-first experience: goal is to increase my code quality through failures.
 - Daily driving **MACOS + VMFUSION (fedora gnome but someday nixOS)** with **Neovim** and **Ghostty**
 
 ---
