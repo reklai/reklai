@@ -5,6 +5,7 @@
 ## About Me
 
 - Daily driving **MACOS + VMFUSION (fedora gnome but someday nixOS)** with **Neovim** and **Rex**
+- I like coding, gym, and manhwa
 
 ---
 
